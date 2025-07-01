@@ -1,4 +1,4 @@
-# Prior-Experience-Based-Dual-Encoder-Approach-for-Efficient-Image-Text-Retrieval
+# Prior-Experience-Based-Unified-Encoder-Approach-for-Efficient-Image-Text-Retrieval
 The aim of remote sensing (RS) image
 text retrieval (RSITR) is to extract pertinent texts 
 (RS images) from a given RS image (text) by using 
